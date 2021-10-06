@@ -8,10 +8,10 @@
 //   PASTE DISINI   \||/
 //                   \/
 
-$useragent         ="   ";
+$useragent          ="";
 
-$accept_language   ="   ";
+$accept_language    ="";
 
-$ci_session        ="   ";
+$ci_session         ="";
 
-$csrf_cookie_name  ="   ";
+$csrf_cookie_name   ="";
