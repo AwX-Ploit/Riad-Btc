@@ -4,9 +4,9 @@
 // Description : JANGAN MERUBAH NAMA VARIABEL DATA!
 
 
-//                   ||
-//   PASTE DISINI   \||/
-//                   \/
+//     PASTE         ||
+// DITENGAH KUTIP   \||/
+//       Y           \/
 
 $useragent          ="";
 
